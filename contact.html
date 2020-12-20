@@ -22,7 +22,11 @@
 
 
         }
-    
+    .content {
+        background-color: white;
+        margin: 5%;
+
+    }
 
 
 </style>
@@ -50,6 +54,35 @@
          </div>
     
     </nav>
+
+    <div class="content">
+        <div class="card-header">
+         <h1>Contact</h1>
+        </div>
+        <div class="card-body">
+            <form>
+                
+                <div class="form-group">
+                  <label for="exampleInputName">Name</label>
+                  <input type="name" class="form-control" id="exampleInputName" placeholder="Name">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputMessage">Message</label>
+                    <input type="Message" class="form-control" id="exampleMessage" placeholder="Message">
+                </div>
+
+                
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </form>
+        </div>
+      </div>
+
     
 </body>
 </html>
