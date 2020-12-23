@@ -11,3 +11,13 @@ linked social media
 contact page
 placeholder on portfolio page
 placeholder text on about me page
+
+Url- https://danbushong.github.io/homework2/#
+
+Screenshots url- 
+
+https://github.com/danbushong/homework2/blob/main/aboutme.png
+https://github.com/danbushong/homework2/blob/main/portf.png
+https://github.com/danbushong/homework2/blob/main/contact.png
+
+
