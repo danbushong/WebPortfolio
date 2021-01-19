@@ -1,5 +1,6 @@
-# homework2
-portfoliohw
+# WebPortfolio
+
+WebPortfolio
 
 This is the layout for a personalized portfolio it has the following:
 
@@ -8,13 +9,17 @@ working links
 responsive images and text
 fixed footer
 linked social media
-contact page
-placeholder on portfolio page
-placeholder text on about me page
+Contact page
+Portfolio page
+About me page
 
 Url- https://danbushong.github.io/WebPortfolio/#
 
-Screenshots url- 
+
+Screenshots - https://github.com/danbushong/WebPortfolio/blob/main/portfolioScreenshot.png
+              https://github.com/danbushong/WebPortfolio/blob/main/aboutMeScreenshot.png
+              https://github.com/danbushong/WebPortfolio/blob/main/contact.png
+              
 
 
 
